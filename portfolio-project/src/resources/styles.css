@@ -1,0 +1,22 @@
+@import "tailwindcss";
+
+body {
+    background-image: linear-gradient(to bottom, black, gray);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed; 
+
+}
+
+.half{
+  height: 50%;              /* if parent has a set height */
+  /* OR set a fixed height like: height: 250px; */
+  overflow: hidden;
+}
+
+.half .img{
+  width: 100%;
+  height: auto;
+  display: block;
+}
