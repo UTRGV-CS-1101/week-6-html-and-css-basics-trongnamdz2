@@ -27,23 +27,6 @@
             <span class="rounded-lg border border-white/10 bg-white/5 px-3 py-1 text-sm text-white/80">PostgreSQL</span>
           </div>
 
-          <div class="mt-8 flex flex-col sm:flex-row gap-3">
-            <a
-              href="#projects"
-              class="inline-flex justify-center items-center rounded-xl bg-white text-black px-5 py-3 font-semibold hover:bg-white/90 transition"
-            >
-              View Projects
-              <span class="ml-2">→</span>
-            </a>
-
-            <a
-              href="#contact"
-              class="inline-flex justify-center items-center rounded-xl border border-white/15 bg-white/5 px-5 py-3 font-semibold text-white hover:bg-white/10 transition"
-            >
-              Contact Me
-            </a>
-          </div>
-
           <p class="mt-6 text-sm text-white/55">
             UIL Computer Science Participant · Competitive Programming · Problem Solving
           </p>

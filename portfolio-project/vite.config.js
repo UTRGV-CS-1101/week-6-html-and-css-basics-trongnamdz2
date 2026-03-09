@@ -6,7 +6,7 @@ import vue from '@vitejs/plugin-vue'
 import vueDevTools from 'vite-plugin-vue-devtools'
 
 export default defineConfig({
-  base: '/week-6-html-and-css-basics-trongnamdz2/', // ✅ move it here (top-level)
+  base: '/week-6-html-and-css-basics-trongnamdz2/',
   plugins: [
     vue(),
     vueDevTools(),
